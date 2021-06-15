@@ -1,5 +1,3 @@
-<h3 align="center">Hi 👋, I'm Francisco Corvalán</h3>
-
 **francorvalant/francorvalant** This is my personal Github, information about me <img height="40" src="https://icons-for-free.com/iconfiles/png/512/humanoids+jawa+star+wars+icon-1320166754997377512.png">
 
 A little about me:
