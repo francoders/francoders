@@ -1,14 +1,11 @@
-**francorvalant/francorvalant** This is my personal Github, information about me <img height="40" src="https://icons-for-free.com/iconfiles/png/512/humanoids+jawa+star+wars+icon-1320166754997377512.png">
+**francorvalant/francorvalant** Este es mi Github personal <img height="40" src="https://icons-for-free.com/iconfiles/png/512/humanoids+jawa+star+wars+icon-1320166754997377512.png">
 
-A little about me:
-
+Un poco sobre mi:
 
 - 🔭 I’m currently working on: Home, learning new things autonomously
 - 🌱 I’m currently learning: I am currently a student at INACAP
-- 📫 How to reach me: `francisco22corvalan@gmail.com`
 
-
-**Languages and Tools:**  
+**Lenguajes y Herramientas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
