@@ -1,11 +1,11 @@
-**francorvalant/francorvalant** Bienvenido a mi Github personal <img height="40" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+**francorvalant** / Bienvenido a mi Github personal <img height="40" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
 
 Un poco sobre mi:
 
-- 🔭 I’m currently working on: Home, learning new things autonomously
-- 🌱 I’m currently learning: I am currently a student at INACAP
+- 🔭 Estoy aprendiendo nuevos lenguajes de forma autonoma
+- 🌱 Actualmente me desempeño como estudiante de INACAP
 
-**Lenguajes y Herramientas:**  
+**Lenguajes y Herramientas que utilizo:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
