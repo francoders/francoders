@@ -2,8 +2,8 @@
 
 Un poco sobre mi:
 
-- 🔭 Estoy aprendiendo nuevos lenguajes de forma autonoma
-- 🌱 Actualmente me desempeño como estudiante de INACAP
+- 🔭 Actualmente realizando practica profesional
+- 🌱 Recien egresado de INACAP
 
 **Lenguajes y Herramientas que utilizo:**  
 
