@@ -1,3 +1,5 @@
+![9MB](https://user-images.githubusercontent.com/71857156/136639852-9a05333b-d048-4ca2-9647-d60522a530aa.gif)
+
 Un poco sobre mi: <img height="40" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
 
 Actualmente realizando practica profesional <br>
@@ -24,3 +26,5 @@ Recien egresado de INACAP
  · 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
+
+
