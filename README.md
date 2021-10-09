@@ -1,12 +1,10 @@
-![9MB](https://user-images.githubusercontent.com/71857156/136639852-9a05333b-d048-4ca2-9647-d60522a530aa.gif)
-
-Un poco sobre mi: <img height="40" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+![Final](https://user-images.githubusercontent.com/71857156/136640280-1f4ada98-d33c-42e1-8b0e-8f328a6a19a8.gif)
 
 Actualmente realizando practica profesional <br>
 Recien egresado de INACAP
 
 
-**Lenguajes y Herramientas que utilizo:**  
+**Lenguajes y Herramientas que utilizo:**  <img height="40" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -26,5 +24,3 @@ Recien egresado de INACAP
  · 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
-
-
