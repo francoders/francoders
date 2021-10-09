@@ -1,4 +1,4 @@
-![Final](https://user-images.githubusercontent.com/71857156/136640280-1f4ada98-d33c-42e1-8b0e-8f328a6a19a8.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71857156/136641179-fe466d89-5d5c-41fa-8efc-d13e123a44d7.gif)
 
 Actualmente realizando practica profesional <br>
 Recien egresado de INACAP
