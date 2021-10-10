@@ -22,5 +22,5 @@ Recien egresado de INACAP
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
  · 
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
