@@ -1,8 +1,6 @@
 
 ![Visits Badge](https://badges.pufler.dev/visits/francorvalant/francorvalant)
 [![LinkedIn Badge](https://img.shields.io/badge/-francorvalan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/francorvalan/)](https://www.linkedin.com/in/francorvalan/)
-![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-
 
 
 <a href="https://francorvalant.github.io/" class="style">
